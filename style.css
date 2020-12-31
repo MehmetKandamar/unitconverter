@@ -1,0 +1,24 @@
+.Length, .Mass, .Area, .Angles, .Frequency, .Disk, .Energy, .Time, .Pressure, .Volume, .Temperature, .Speed{
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    background: #a1b8bf;
+
+}
+.heading{
+    width: 100%;
+    text-align: center;
+    background: #afd0db;
+
+}
+body{
+
+    color:black;
+}
+h1{
+    size: 25px;
+    color: navy;
+}
+input[type=submit]{
+    background: #9cc49c;
+}
